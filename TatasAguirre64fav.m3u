@@ -1,0 +1,104 @@
+#EXTM3U x-tvg-url="https://bit.ly/3itZsSm"
+
+#EXTINF:-1 tvg-id="WGNDT1.us" tvg-logo="https://imgur.com/1yEz0eD.png" group-title="Groups", WGN Chicago IL (WGN-TV1)| HD 720p
+http://trn03.tulix.tv/teleup-mBm5MQ50rA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cozitv.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cozitv.png" group-title="Groups", 10.2 COZY TV New Jersey | HD 432p
+https://v-pi.theus6tv.tk/hls/10.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GlobalNews.ca" tvg-logo="https://imgur.com/EStqEPG.png" group-title="Groups", Global|BC HD 720p
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="GlobalNews.ca" tvg-logo="https://imgur.com/s8nBDif.png" group-title="Groups", Global|NEWS HD 720p
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/KrdF9BI.png" group-title="Groups", Dust TV|HD 1080p
+https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo=".png" group-title="Groups", Film Hub|HD 1080p
+https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/RUOydJh.png" group-title="Groups", CinemaWorld|HD 720p
+http://210.210.155.35/dr9445/h/h04/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/OfSifKV.png" group-title="Groups", CineVault 80s|HD 720p
+https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/4SxMG9Q.png" group-title="Groups", CRACKLE|HD Plex 720p
+https://crackle-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/4SxMG9Q.png" group-title="Groups", CRACKLE|HD XUMO 1080p
+http://crackle-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GetTv.us" tvg-logo=".png" group-title="Groups", 13.3 GET|New Jersey | HD 480p
+https://v-px.theus6tv.tk/hls/13.3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://imgur.com/xP3WAfj.png" group-title="Groups", TBS East | HD 720p
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TBSWest.us" tvg-logo="https://imgur.com/z84s0DS.png" group-title="Groups", TBS West| HD 720p
+https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://imgur.com/c48rQAp.png" group-title="Groups", TCM East | HD 720p
+https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="TCMWest.us" tvg-logo="https://imgur.com/peeVZIi.png" group-title="Groups", TCM West | HD 720p
+https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://imgur.com/WDP6Wvx.png" group-title="Groups", TNT East | HD 720p
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TNTwest.us" tvg-logo="https://imgur.com/EhmW1DA.png" group-title="Groups", TNT West | HD 720p
+https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="trutv.us" tvg-logo="https://imgur.com/zFQE67B.png" group-title="Groups", TruTV East | HD 720p
+https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="trutv.us" tvg-logo="https://imgur.com/IEBa47u.png" group-title="Groups", TruTV West | HD 720p
+https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TuTv.us" tvg-logo="https://imgur.com/cJedHRh.png" group-title="Groups", TuTV | HD 720p
+https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/aD0DaIZ.png" group-title="Groups", USA Premiere | HD 720p
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Space Channel TV" tvg-logo="https://imgur.com/bnik82m.png" group-title="Groups", SpaceChannel TV | HD 720p
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
+
+#EXTINF:-1 tvg-id="WJACDT1.us" tvg-logo="https://imgur.com/h8g13Mi.png" group-title="Groups", 6 NBC (WJAC1) Altoona PA |HD 720p
+http://trn03.tulix.tv/teleup-nbc-wgal-new1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://imgur.com/wbkCZXk.png" group-title="Groups", AMC East | HD 720p
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AWE.us" tvg-logo=".png" group-title="Groups", AWE | HD 720p
+http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Charge.us" tvg-logo="https://imgur.com/FoQ6H8k.png" group-title="Groups", Charge!|HD 720p
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+#EXTINF:-1 tvg-id="Cinelife.us" tvg-logo="https://imgur.com/9dADU98.png" group-title="Groups", CineLife|HD 720p
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-logo="https://imgur.com/IkwRRtc.png" group-title="Groups", Cinemax|ASIA HD 720p
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-logo="https://imgur.com/jg2WGvJ.png" group-title="Groups", CN CartoonNetwork|HD 720p
+https://tve-live-lln.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us" tvg-logo="https://imgur.com/7zWpi7s.png" group-title="Groups", Comet|HD 720p
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
+#EXTINF:-1 tvg-id="IONPlus.us" tvg-logo="https://imgur.com/tjS60Hd.png" group-title="Groups", ION Plus | HD 720p
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IONPlus.us" tvg-logo="https://imgur.com/6pFvdXP.png" group-title="Groups", ION Plus | HD 720p
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sundance.us" tvg-logo="https://imgur.com/wEaTomx.png" group-title="Groups", SUNDANCE|HD 720p
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/676927
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/fv5VNG1.png" group-title="Groups", The HeartLand Network | HD 1080p
+https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
+

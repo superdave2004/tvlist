@@ -1,0 +1,395 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml"
+
+#EXTINF:-1 tvg-id="TNTWest.us" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="Groups", TNT West (720p) [Geo-blocked]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="Groups", TNT East (720p) [Geo-blocked]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWildAsia.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Groups", National Geographic Wild Asia (1080p)
+https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Groups", National Geographic Asia (1080p)
+https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Smithsonian_Channel_current_logo.png" group-title="Groups", Smithsonian Channel Asia (1080p)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-logo="https://i.imgur.com/3rXTaB6.png" group-title="Groups", HBO Asia
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="WJLPDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/WJLP_New_York_Logo.png/512px-WJLP_New_York_Logo.png" group-title="Groups", METV New york WJLP-DT1
+https://v-ny.theus6tv.tk/hls/33.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WJLPDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Groups", Laff WJLP-DT2
+https://v-ny.theus6tv.tk/hls/33.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WJLPDT3.us" tvg-logo="https://i.imgur.com/6w1Wj3j.png" group-title="Groups", Grit WJLP-DT3
+https://v-ny.theus6tv.tk/hls/33.3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WJLPDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" group-title="Groups", ION Mystery WJLP-DT4
+https://v-ny.theus6tv.tk/hls/33.4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WJLPDT5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="Groups", Retro TV WJLP-DT5
+https://v-ny.theus6tv.tk/hls/33.5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WJLPDT6.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" group-title="Groups", Heartland WJLP-DT6
+https://v-ny.theus6tv.tk/hls/33.6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WJLPDT7.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="Groups", Story Television WJLP-DT7
+https://v-ny.theus6tv.tk/hls/33.7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBUTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/CBUT-DT_Logo.jpg" group-title="Groups", CBC Vancouver
+https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
+
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/512px-Fight_network_logo.svg.png" group-title="Groups", Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="Groups", Love Nature (1080p)
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StingrayQello.ca" tvg-logo="https://i.imgur.com/LO0EZhT.png" group-title="Groups", Qello Concerts by Stingray (1080p)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimRickandMorty.us" tvg-logo="https://i.imgur.com/JvLSIAO_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Groups", Adult Swim Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-logo="https://i.imgur.com/E6EJ14j_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Groups", Adult Swim Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="Groups", Adult Swim East (720p)
+https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="Groups", Adult Swim West (720p)
+https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://i.imgur.com/CTOvVcN.png" group-title="Groups", AMC East (720p)
+https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMCPresents.us" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Groups", AMC Presents (1080p)
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StoriesbyAMC.us" tvg-logo="https://images.pluto.tv/channels/5e8254118601b80007b4b7ae/colorLogoPNG.png" group-title="Groups", Pluto TV Stories by AMC (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8254118601b80007b4b7ae&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=135&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="RushbyAMC.us" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Groups", Rush by AMC (1080p)
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AWE.us" tvg-logo="https://i.imgur.com/OjpCtGj.png" group-title="Groups", AWE (720p)
+http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AWEEncore.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60482f63cfbf071d6151ca95" group-title="Groups", AWE Encore (720p)
+https://aweencore-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18332/s18332_h3_aa.png" group-title="Groups", BBC America (720p)
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CableHits.us" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Groups", Cable Hits (720p) [Not 24/7]
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Groups", Cartoon Network West TVE Feed (720p) [Geo-Blocked]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Groups", Cartoon Network East TVE Feed (720p) [Geo-Blocked] [Not 24/7]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="Charge.us" tvg-logo="https://i.imgur.com/fuw0hHE.png" group-title="Groups", Charge! (720p)
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="Groups", Comet
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+
+#EXTINF:-1 tvg-id="CONtv.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483" group-title="Groups", CONtv
+https://contv-junction.cinedigm.com/ingest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CONtvAnime.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Groups", CONtv Anime
+https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
+
+#EXTINF:-1 tvg-id="Docurama.us" tvg-logo="https://i.imgur.com/5X5Z5eg.png" group-title="Groups", Docurama (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdocurama/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryEast.us" tvg-logo="https://i.imgur.com/EoE1P11.png" group-title="Groups", History East (720p) [Not 24/7]
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHistory.us" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Groups", Pluto TV HISTORY
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="IFCEast.us" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Groups", IFC East (720p)
+https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IFCFilmsPicks.us" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Groups", IFC Films Picks (1080p)
+https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SlightlyOffIFC.us" tvg-logo="https://images.pluto.tv/channels/5e82547b6b3df60007fec2b5/colorLogoPNG.png" group-title="Groups", Slightly Off by IFC (1080p)
+https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KCBSDT1.us" tvg-logo="https://i.imgur.com/RIFC1Y6.jpg" group-title="Groups", CBS Los Angeles CA (KCBS-DT1) (1080p)
+http://51.161.118.146:8080/ISG03_CBS_LOS_ANGELES_CA_KCBS/video.m3u8
+
+#EXTINF:-1 tvg-id="KCPQDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="Groups", FOX Seattle WA (KCPQ-DT1) (720p)
+http://51.161.118.146:8080/ISG03_FOX_SEATTLE_WA_KCPQ/video.m3u8
+
+#EXTINF:-1 tvg-id="KDFWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Groups", FOX Dallas TX (KDFW-DT1) (720p)
+http://51.161.118.146:8080/ISG03_FOX_DALLAS_TX_KDFW/video.m3u8
+
+#EXTINF:-1 tvg-id="KTTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Groups", FOX Los Angeles CA (KTTV-DT1) (720p)
+http://51.161.118.146:8080/ISG03_FOX_LOS_ANGELES_CA_KTTV/video.m3u8
+
+#EXTINF:-1 tvg-id="KPHODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Groups", CBS Phoenix AZ (KPHO-DT1) (1080p)
+http://51.161.118.146:8080/ISG03_CBS_PHOENIX_AZ_KPHO/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="KIRODT1.us" tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/10098/s10098_h5_aa.png" group-title="Groups", CBS Seattle WA (KIRO-DT1) (1080p)
+http://51.161.118.146:8080/ISG03_CBS_SEATTLE_WA_KIRO/video.m3u8
+
+#EXTINF:-1 tvg-id="KFPHDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logo-asn.png" group-title="Groups", KFPH-DT3 (GetTV) (480p)
+https://v-px.theus6tv.tk/hls/13.3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KOMODT1.us" tvg-logo="https://i.imgur.com/8vXRrRe.jpg" group-title="Groups", ABC Seattle WA (KOMO-DT1) (720p)
+http://51.161.118.146:8080/ISG03_ABC_SEATTLE_WA_KOMO/video.m3u8
+
+#EXTINF:-1 tvg-id="KGODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Groups", ABC San Francisco CA (KGO-DT1) (720p)
+http://51.161.118.146:8080/ISG03_ABC_SAN_FRANCISCO_CA_KGO/video.m3u8
+
+#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NBC_2013_fixed_logo.png/512px-NBC_2013_fixed_logo.png" group-title="Groups", NBC Los Angeles CA (KNBC-DT1) (720p)
+http://51.161.118.146:8080/ISG03_NBC_LOS_ANGELES_CA_KNBC/video.m3u8
+
+#EXTINF:-1 tvg-id="KINGDT1.us" tvg-logo="https://i.imgur.com/aDqnu8Y.jpg" group-title="Groups", NBC Seattle WA (KING-DT1) (720p)
+http://51.161.118.146:8080/ISG03_NBC_SEATTLE_WA_KING/video.m3u8
+
+#EXTINF:-1 tvg-id="WNBCDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png" group-title="Groups", Cozi TV WNBC-DT2
+https://v-ny.theus6tv.tk/hls/4.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovieKingdom.us" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="Groups", Movie Kingdom (720p)
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+
+#EXTINF:-1 tvg-id="MagellanTV.us" tvg-logo="https://i.imgur.com/oIy673i.png" group-title="Groups", Magellan TV (720p)
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Groups", MovieSphere (1080p)
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VizioFilmRiseFreeMovies.us" tvg-logo="https://i.imgur.com/X7U7ikq.png" group-title="Groups", FilmRise Free Movies (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmrisefreemovies/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-logo="https://i.imgur.com/JMn9sxk.png" group-title="Groups", Hallmark Movies & More (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="Groups", Gravitas Movies (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedboxFilmRiseFreeMovies.us" tvg-logo="https://i.imgur.com/X7U7ikq.png" group-title="Groups", FilmRise Free Movies (Redbox) (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTimemovienetwork.us" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Groups", MyTime movie network (1080p)
+https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WNYWDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Movies%21_logo.svg/512px-Movies%21_logo.svg.png" group-title="Groups", Movies! WNYW-DT2
+https://v-ny.theus6tv.tk/hls/5.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="Groups", Pluto TV Sci-Fi (360p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4fc274694c027be6ed3eea&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=151&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="Groups", Pluto TV Science (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=563a970aa1a1f7fe7c9daad7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=672&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="SciFi4U.us" tvg-logo="https://od.lk/s/MF8yMzU1NDU3MThf/NostTV_SciFi4U_576x576.png" group-title="Groups", Sci-Fi 4U (720p)
+https://broadcast.mytvtogo.net/SciFiTV4u/SciFiTV4u/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="Groups", Stadium (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="TBSWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="Groups", TBS West (720p) [Geo-blocked]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="Groups", TBS East (720p) [Geo-blocked]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TruTVEast.us" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/trutv.png" group-title="Groups", TruTV East (720p) [Geo-blocked]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TruTVWest.us" tvg-logo="https://i.imgur.com/e3KabTt.jpg" group-title="Groups", TruTV West (720p) [Geo-blocked]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="WABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Groups", ABC 7 WABC-DT1
+https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WABCDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Localish_Logo.png" group-title="Groups", Localish WABC-DT2
+https://v-ny.theus6tv.tk/hls/7.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NBC_2013_fixed_logo.png/512px-NBC_2013_fixed_logo.png" group-title="Groups", NBC 10 WCAU-DT1
+https://v-pi.theus6tv.tk/hls/10.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WCAUDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png" group-title="Groups", Cozi TV WCAU-DT2
+https://v-pi.theus6tv.tk/hls/10.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WCBSDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Logo_of_Fave_TV.png" group-title="Groups", FaveTV WCBS-DT4
+https://v-ny.theus6tv.tk/hls/2.4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WCBSDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dabl_logo.svg/512px-Dabl_logo.svg.png" group-title="Groups", Dabl WCBS-DT3
+https://v-ny.theus6tv.tk/hls/2.3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WCBSDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/512px-Start_TV_logo.svg.png" group-title="Groups", Start TV WCBS-DT2
+https://v-ny.theus6tv.tk/hls/2.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Groups", CBS WCBS-DT1
+https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WHYYDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="Groups", PBS Y2 WHYY-DT2
+https://v-pi.theus6tv.tk/hls/12.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WLIWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="Groups", PBS WLIW-DT1
+https://v-ny.theus6tv.tk/hls/21.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WLIWDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png" group-title="Groups", Create TV WLIW-DT2
+https://v-ny.theus6tv.tk/hls/21.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WLIWDT4.us" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/all-arts.png" group-title="Groups", All Arts WLIW-DT4
+https://v-ny.theus6tv.tk/hls/21.4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="Groups", Fox 5 WNYW-DT1
+https://v-ny.theus6tv.tk/hls/5.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WNYWDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/The_Grio_logo.png" group-title="Groups", The Grio WNYW-DT4
+https://v-ny.theus6tv.tk/hls/5.4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WNYWDT5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Decades_Logo.svg/512px-Decades_Logo.svg.png" group-title="Groups", Decades WNYW-DT5
+https://v-ny.theus6tv.tk/hls/5.5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WPHLDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/512px-Antenna_TV_logo.svg.png" group-title="Groups", Antenna TV WPHL-DT2
+https://v-pi.theus6tv.tk/hls/17.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WPIXDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Rewind_TV_logo.png/512px-Rewind_TV_logo.png" group-title="Groups", Rewind TV WPIX-DT4
+https://v-ny.theus6tv.tk/hls/11.4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WPIXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png" group-title="Groups", PIX 11 WPIX-DT1
+https://v-ny.theus6tv.tk/hls/11.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WPXNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Groups", ION East WPXN-DT1
+https://v-ny.theus6tv.tk/hls/31.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WPXNDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png" group-title="Groups", Bounce HD WPXN-DT2
+https://v-ny.theus6tv.tk/hls/31.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WPXNDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Defy_TV_logo.png/512px-Defy_TV_logo.png" group-title="Groups", Defy TV WPXN-DT4
+https://v-ny.theus6tv.tk/hls/31.4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WPXNDT6.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/TrueReal_logo.png" group-title="Groups", True Real WPXN-DT6
+https://v-ny.theus6tv.tk/hls/31.6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Newsy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/512px-Newsy_2021.svg.png" group-title="Groups", Newsy WPXN-DT7
+https://v-ny.theus6tv.tk/hls/31.7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WWORDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png" group-title="Groups", my9 WWOR-DT1 (my9)
+https://v-ny.theus6tv.tk/hls/9.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WWORDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png" group-title="Groups", Buzzr WWOR-DT3
+https://v-ny.theus6tv.tk/hls/9.3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WXTVDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Twist_logo.svg/512px-Twist_logo.svg.png" group-title="Groups", Twist WXTV-DT3
+https://v-ny.theus6tv.tk/hls/41.3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVExplore.us" tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png" group-title="Groups", Pluto TV Explore (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b8551b95267e225e59c1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="Xplore.gr" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="Groups", Xplore (714p)
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Xplore.us" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="Groups", Xplore (1080p)
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDocumentaries.us" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" group-title="Groups", Pluto TV Documentaries (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b85a7582921777994caea63&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=91&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="VoyagerDocumentaries.us" tvg-logo="https://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="Groups", Voyager Documentaries (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvoyagerdocumentaries/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WLIWDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="Groups", PBS World Channel WLIWDT3
+https://v-ny.theus6tv.tk/hls/21.3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElectricNow.us" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Groups", Electric Now (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="ShowtimeSelects.us" tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png" group-title="Groups", Pluto TV Showtime Select (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="WACPDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/AceTV-USA.png" group-title="Groups", AceTV WACP-DT2
+https://v-pi.theus6tv.tk/hls/4.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DoveChannel.us" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="Groups", Dove Channel (1080p)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="AXSTVNow.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="Groups", AXS TV Now (1080p)
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-id="LegoChannel.us" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Groups", Lego Channel (1080p)
+https://legochannel-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ClassicToonsTV.us" tvg-logo="https://images.pluto.tv/channels/562ea53fa9060c5a7d463e74/colorLogoPNG.png" group-title="Groups", Pluto TV Classic Toons TV (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=562ea53fa9060c5a7d463e74&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=548&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="Cats247.us" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Groups", Cats 24/7 (US) (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="CineLife.us" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="Groups", CineLife (1080p)
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Asylum.us" tvg-logo="https://i.imgur.com/j98vGQp.jpg" group-title="Groups", Asylum (XUMO) (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BumblebeeTVPopCornFlixAction.us" tvg-logo="https://i.imgur.com/Ths3dIy.png" group-title="Groups", Bumblebee TV PopCornFlix Action (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CinemaxAsia.us" tvg-logo="https://i.imgur.com/AvCUtC4.png" group-title="Groups", Cinemax Asia (720p)
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Crackle.us" tvg-logo="https://i.imgur.com/7vIsBfF.png" group-title="Groups", Crackle (XUMO) (1080p)
+http://crackle-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinevault80s.us" tvg-logo="https://od.lk/s/MF8yMzI4NjIyODdf/Cinevault-80s_700x700.png" group-title="Groups", Cinevault 80s (540p)
+https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dust.us" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Groups", Dust (1080p)
+https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
+
+#EXTINF:-1 tvg-id="RokuFilmRiseSciFi.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/815Fp3E0LcL.png" group-title="Groups", FilmRise Sci-Fi (XUMO) (144p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmStreams.us" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="Groups", FilmStreams (720p)
+https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FrightFlix.us" tvg-logo="https://i.imgur.com/rgNQYAl.png" group-title="Groups", FrightFlix (720p)
+https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
+
+#EXTINF:-1 tvg-id="70sCinema.us" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="Groups", Pluto TV 70s Cinema (684p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="90sThrowback.us" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="Groups", Pluto TV 90s Throwback (684p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="Groups", Pluto TV Action (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="TVLandDrama.us" tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png" group-title="Groups", Pluto TV TV Land Drama (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d40bebc5e3d2750a2239d7e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=130&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="RockTV.ro" tvg-logo="https://i.imgur.com/F69gAWa.png" group-title="Groups", Rock TV (480p)
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="HuntChannel.us" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Groups", Hunt Channel (1080p)
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg" group-title="Groups", Pluto TV Smithsonian Channel Selects (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="PlutoTVSpace.us" tvg-logo="https://images.pluto.tv/channels/5dbc2f98777f2e0009934ae7/colorLogoPNG.png" group-title="Groups", Pluto TV Space (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="PlutoTVFantastic.us" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="Groups", Pluto TV Fantastic (684p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="TheAsylum.us" tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="Groups", The Asylum (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cc81e793798650e4f7d9fd3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5cc81e793798650e4f7d9fd3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=867f59cf-0586-11eb-8b9f-0242ac110002&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="PlutoTVCars.us" tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" group-title="Groups", Pluto TV Cars (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b3a4249444e05d09cc46&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=663&terminate=false&userId=
+
